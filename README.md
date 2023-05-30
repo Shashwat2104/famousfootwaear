@@ -7,9 +7,6 @@ As India's largest online shop for men's, women's, and children's footwear, Sole
 
 <br>
 
-💻Unique Project Name & logo :- SoleMate - Step Up Your Style.
-
-![App Screenshot](https://i.postimg.cc/gJTvWQhF/solemate-logo-2.png)
 ---
  💫Tech-Stack->
 For Frontend : HTML5, CSS3, Javascript, ES6.
@@ -71,7 +68,7 @@ For Frontend : HTML5, CSS3, Javascript, ES6.
 
 
 ---
-⭐Deployed Link:-https://peppy-cranachan-ee3758.netlify.app/
+⭐Deployed Link:-
 
 
 ----

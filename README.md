@@ -68,7 +68,7 @@ For Frontend : HTML5, CSS3, Javascript, ES6.
 
 
 ---
-⭐Deployed Link:-
+⭐Deployed Link:- https://boisterous-manatee-17c997.netlify.app/
 
 
 ----
